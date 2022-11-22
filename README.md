@@ -1,1 +1,2 @@
-I am (according to the internet) a 15/yo twitch streamer (Source_On_Twitch) who likes to play minecraft and code 
+Hi, I'm Source, your friendly neighborhood backend development guy. I like C# and Javascript, and have a lot of experience with HTML/CSS   
+I also co-founded arlojay studios, and helped with a project, and have one independent project up on the page (LatencyTracker)
